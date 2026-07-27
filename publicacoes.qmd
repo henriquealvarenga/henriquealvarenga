@@ -225,8 +225,8 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
   <https://henriquealvarenga.com/bibgetpdf/>\
   [![DOI](https://zenodo.org/badge/1311054649.svg)](https://doi.org/10.5281/zenodo.21536834)
 
-- **mcp-server-google-forms** — servidor MCP para Google Forms\
-  <https://claude-book.github.io/mcp-server-google-forms>\
+- **"Forms IA (MCP)"** — servidor MCP para Google Forms\
+  <https://henriquealvarenga.com/mcp>\
   [![DOI](https://zenodo.org/badge/1294358395.svg)](https://doi.org/10.5281/zenodo.21296975)
 
 - **Bounded Rationality Lab** — aplicativo interativo\
