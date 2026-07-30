@@ -236,9 +236,12 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
   - **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**.\
   *Uma versão aprimorada do app de Análise Visual de regressão linear.*\
-  <https://henriquealvarenga.com/linear-regression-lab>\
+  <https://henriquealvarenga.com/linear-regression-lab> (web version)\
+  [![DOI](https://zenodo.org/badge/1214454858.svg)](https://doi.org/10.5281/zenodo.19650333)\
+  
   <https://apps.apple.com/br/app/linear-regression-lab/id6763681036> (iphone/ipad)\
-  [![DOI](https://zenodo.org/badge/1214454858.svg)](https://doi.org/10.5281/zenodo.19650333)
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21702964.svg)](https://doi.org/10.5281/zenodo.21702964)\
+
 
 - **Entangled Beliefs app** — aplicativo interativo\
   <https://entangled-beliefs.base44.app>
