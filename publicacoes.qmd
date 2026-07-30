@@ -234,7 +234,7 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
   <https://apps.apple.com/br/app/bounded-rationality-lab/id6758886656> (iphone/ipad)\
   [![DOI](https://zenodo.org/badge/1215058075.svg)](https://doi.org/10.5281/zenodo.19654289)
 
-  - **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**.\
+- **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**.\
   *Uma versão aprimorada do app de Análise Visual de regressão linear.*\
   <https://henriquealvarenga.com/linear-regression-lab> (web version)\
   [![DOI](https://zenodo.org/badge/1214454858.svg)](https://doi.org/10.5281/zenodo.19650333)\
