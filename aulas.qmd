@@ -14,7 +14,7 @@ Catálogo de ensino
 # Aulas e Material Didático
 
 ::: {.dek}
-Conteúdo das disciplinas ministradas no UNIPTAN/Afya e na UFSJ — livros, manuais, aplicativos interativos e textos de apoio.
+Conteúdo das disciplinas de Psiquiatria, Psicopatologia e Métodos de Pesquisa ministradas no UNIPTAN/Afya e na UFSJ — livros, manuais, aplicativos interativos e textos de apoio.
 :::
 :::
 
