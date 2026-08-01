@@ -1,5 +1,6 @@
 ---
-pagetitle: "Publicações — Dr. Henrique Alvarenga"
+pagetitle: "Publicações"
+description: "Livros, capítulos, artigos científicos, palestras e aplicativos do Dr. Henrique Alvarenga: psiquiatria, psicopatologia, estatística em R e tecnologia na saúde."
 toc: true
 toc-location: right
 toc-title: "Nesta página"

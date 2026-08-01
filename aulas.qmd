@@ -1,5 +1,6 @@
 ---
-pagetitle: "Aulas — Dr. Henrique Alvarenga"
+pagetitle: "Aulas"
+description: "Materiais de aula do Dr. Henrique Alvarenga para os cursos de Medicina da UFSJ (Psiquiatria e Psicopatologia) e do UNIPTAN (Métodos de Ensino e Pesquisa)."
 toc: true
 toc-location: right
 toc-title: "Disciplinas"

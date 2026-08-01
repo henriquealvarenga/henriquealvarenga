@@ -1,5 +1,6 @@
 ---
 title: ""
+description: "Psiquiatra em São João del-Rei – MG. Dr. Henrique Alvarenga atende em consultório particular no Centro há mais de 25 anos. Agendamento por WhatsApp (32) 99981-2366."
 page-layout: full
 toc: false
 ---

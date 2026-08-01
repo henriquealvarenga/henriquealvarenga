@@ -1,5 +1,6 @@
 ---
-pagetitle: "Sobre — Dr. Henrique Alvarenga"
+pagetitle: "Sobre"
+description: "Formação e trajetória do Dr. Henrique Alvarenga: Medicina pela UFMG, residência em Psiquiatria no HC-UFMG, mestrado em Ensino em Saúde e docência na UFSJ e no UNIPTAN."
 ---
 
 ::: {.hero-editorial}

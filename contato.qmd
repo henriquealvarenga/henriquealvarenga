@@ -1,5 +1,6 @@
 ---
-pagetitle: "Contato — Dr. Henrique Alvarenga"
+pagetitle: "Contato e Agendamento"
+description: "Endereço, telefones, WhatsApp e horário de atendimento do consultório do Dr. Henrique Alvarenga, psiquiatra no Centro de São João del-Rei – MG."
 ---
 
 ::: {.hero-editorial}

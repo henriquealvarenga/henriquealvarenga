@@ -20,4 +20,10 @@ Rua Aureliano Mourão, 140
 Centro · São João del-Rei – MG
 (Perto da Igreja São Francisco)
 :::
+
+::: {.info-card}
+**Horário de atendimento**
+Segunda a sexta
+08h às 17h30
+:::
 :::
