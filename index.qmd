@@ -6,7 +6,7 @@ open-graph:
 twitter-card:
   title: "Dr. Henrique Alvarenga — Psiquiatra em São João del-Rei"
   image: images/og-card.jpg
-description: "Psiquiatra em São João del-Rei – MG. Dr. Henrique Alvarenga atende em consultório particular no Centro há mais de 25 anos. Agendamento por WhatsApp (32) 99981-2366."
+description: "Psiquiatra em São João del-Rei – MG. Dr. Henrique Alvarenga atende em consultório particular no Centro há mais de 25 anos, presencial e online. Agendamento por WhatsApp (32) 99981-2366."
 page-layout: full
 toc: false
 ---
@@ -18,15 +18,55 @@ toc: false
 # Dr. Henrique Alvarenga da Silva
 
 ::: {.lead}
-Médico Psiquiatra · Professor de Medicina (UFSJ e UNIPTAN)
+Médico Psiquiatra em São João del-Rei · Professor de Medicina (UFSJ e UNIPTAN)
 :::
 
 ::: {.credenciais}
-Membro da Associação Brasileira de Psiquiatria (ABP)
+Membro da Associação Brasileira de Psiquiatria (ABP)\
 CRM-MG 31.778 · RQE 8381 (psiquiatra)
 :::
 :::
 :::
+
+## <i class="bi bi-calendar-check"></i> Atendimento
+
+Atendo **adultos** em consultório particular no Centro de São João del-Rei há mais de 25 anos.
+As consultas podem ser **presenciais ou online**.
+
+::: {.cta-agendar}
+[<i class="bi bi-whatsapp"></i> Agendar pelo WhatsApp](https://wa.me/5532999812366)
+:::
+
+::: {.info-grid}
+::: {.info-card}
+**Agendamento**
+[(32) 99981-2366 — WhatsApp](https://wa.me/5532999812366)\
+(32) 3371-7176 (fixo)
+:::
+
+::: {.info-card}
+**Onde**
+Rua Aureliano Mourão, 140 — Centro\
+São João del-Rei – MG
+:::
+
+::: {.info-card}
+**Horário**
+Segunda a sexta\
+08h às 17h30
+:::
+:::
+
+## <i class="bi bi-clipboard-pulse"></i> O que trato
+
+- Depressão
+- Transtornos de ansiedade e síndrome do pânico
+- Transtorno bipolar
+- TDAH em adultos
+- Insônia e transtornos do sono
+- Transtorno obsessivo-compulsivo (TOC)
+- Esgotamento profissional (*burnout*)
+- Esquizofrenia e outras psicoses
 
 ## <i class="bi bi-person-circle"></i> Quem sou
 
@@ -57,13 +97,13 @@ Em dezembro de 2022 tive a honra de receber, junto com meus colegas da UFMG, o d
 ::: {.info-grid}
 ::: {.info-card}
 **Endereço**
-Rua Aureliano Mourão, 140 — Centro
+Rua Aureliano Mourão, 140 — Centro\
 São João del-Rei – MG
 :::
 
 ::: {.info-card}
 **Telefones**
-(32) 99981-2366 (WhatsApp)
+(32) 99981-2366 (WhatsApp)\
 (32) 3371-7176 (fixo)
 :::
 
@@ -74,7 +114,7 @@ São João del-Rei – MG
 :::
 
 ::: {.map-wrap}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d351.51675751723417!2d-44.26102396929085!3d-21.137862602141738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa1c8914dd8a263%3A0x4aa62d14c84dc31f!2sRua%20Aureliano%20Mour%C3%A3o%2C%20140%20-%20Centro%2C%20S%C3%A3o%20Jo%C3%A3o%20del%20Rei%20-%20MG%2C%2036307-334!5e0!3m2!1sen!2sbr!4v1711745260490!5m2!1sen!2sbr" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d351.51675751723417!2d-44.26102396929085!3d-21.137862602141738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa1c8914dd8a263%3A0x4aa62d14c84dc31f!2sRua%20Aureliano%20Mour%C3%A3o%2C%20140%20-%20Centro%2C%20S%C3%A3o%20Jo%C3%A3o%20del%20Rei%20-%20MG%2C%2036307-334!5e0!3m2!1sen!2sbr!4v1711745260490!5m2!1sen!2sbr" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Mapa do consultório na Rua Aureliano Mourão, 140, Centro, São João del-Rei"></iframe>
 :::
 
 ::: {.social-buttons}

@@ -381,3 +381,39 @@ h2 .bi {
   background: $navbar-hl;
   border-radius: 2px;
 }
+
+/* ---------------- Botão de agendamento (WhatsApp) ---------------- */
+.cta-agendar {
+  display: flex;
+  justify-content: center;
+  margin: 1.75rem 0 2.25rem;
+}
+
+.cta-agendar a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: $primary;
+  color: #fff !important;
+  padding: 0.85rem 2rem;
+  border-radius: 30px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  box-shadow: 0 4px 14px rgba(31, 58, 95, 0.22);
+  transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
+}
+
+.cta-agendar a:hover,
+.cta-agendar a:focus-visible {
+  background: $secondary;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(31, 58, 95, 0.28);
+}
+
+.cta-agendar a i { font-size: 1.2rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  .cta-agendar a { transition: background 0.2s; }
+  .cta-agendar a:hover, .cta-agendar a:focus-visible { transform: none; }
+}
