@@ -10,7 +10,8 @@ website:
   title: "Dr. Henrique Alvarenga — Psiquiatra em São João del-Rei"
   description: "Médico Psiquiatra • Professor UFSJ e UNIPTAN"
   site-url: https://henriquealvarenga.com
-  favicon: images/retrato.jpeg
+  favicon: images/favicon.png
+  image: images/og-card.jpg
   reader-mode: false
   page-navigation: true
 
@@ -68,6 +69,7 @@ format:
       margin-width: 250px
     include-in-header:
       - text: |
+          <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap" rel="stylesheet">
@@ -85,7 +87,11 @@ format:
                 }
               });
             }, { threshold: 0.12 });
-            document.querySelectorAll("main h2, main .card, main .info-grid, main .gallery, main .map-wrap, main .pub-list, main .hero-banner, main figure").forEach(el => {
+            // O .hero-banner fica de fora de propósito: é o conteúdo do topo da
+            // página e o elemento que o Google mede como LCP. Começar invisível
+            // (opacity: 0) atrasa essa medição, porque o Chrome não considera
+            // candidato a LCP um elemento invisível.
+            document.querySelectorAll("main h2, main .card, main .info-grid, main .gallery, main .map-wrap, main .pub-list, main figure").forEach(el => {
               el.classList.add("fade-in");
               io.observe(el);
             });

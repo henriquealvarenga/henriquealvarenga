@@ -2,15 +2,17 @@
 title: ""
 open-graph:
   title: "Dr. Henrique Alvarenga — Psiquiatra em São João del-Rei"
+  image: images/og-card.jpg
 twitter-card:
   title: "Dr. Henrique Alvarenga — Psiquiatra em São João del-Rei"
+  image: images/og-card.jpg
 description: "Psiquiatra em São João del-Rei – MG. Dr. Henrique Alvarenga atende em consultório particular no Centro há mais de 25 anos. Agendamento por WhatsApp (32) 99981-2366."
 page-layout: full
 toc: false
 ---
 
 ::: {.hero-banner}
-<img src="images/retrato.jpeg" alt="Dr. Henrique Alvarenga" class="hero-portrait"/>
+<img src="images/retrato.jpeg" alt="Dr. Henrique Alvarenga da Silva, médico psiquiatra em São João del-Rei" class="hero-portrait" width="220" height="220" fetchpriority="high"/>
 
 ::: {.hero-text}
 # Dr. Henrique Alvarenga da Silva
@@ -38,7 +40,7 @@ Há mais de **25 anos** atendo em consultório particular em São João del-Rei.
 
 ## <i class="bi bi-award"></i> Jubileu de prata
 
-![Jubileu de 25 anos de carreira médica (dez/2022)](images/Jubileu.jpeg){.img-fluid fig-align="center" width="70%"}
+![Jubileu de 25 anos de carreira médica (dez/2022)](images/Jubileu.jpeg){loading="lazy" .img-fluid fig-align="center" width=630 height=636 fig-alt="Dr. Henrique Alvarenga, em beca acadêmica, segura o certificado de Jubileu de Prata pelos 25 anos de formatura em Medicina pela UFMG, em dezembro de 2022"}
 
 Em dezembro de 2022 tive a honra de receber, junto com meus colegas da UFMG, o diploma de **25 anos de carreira médica**.
 
@@ -47,9 +49,9 @@ Em dezembro de 2022 tive a honra de receber, junto com meus colegas da UFMG, o d
 ## <i class="bi bi-geo-alt"></i> Consultório
 
 ::: {.gallery}
-![Recepção do consultório](images/consultorio1.jpg)
+![Recepção do consultório](images/consultorio1.jpg){loading="lazy" fig-alt="Balcão de atendimento da recepção do consultório de psiquiatria do Dr. Henrique Alvarenga, no Centro de São João del-Rei" width=1200 height=900}
 
-![Recepção do consultório](images/consultorio2.jpg)
+![Sala de espera](images/consultorio2.jpg){loading="lazy" fig-alt="Sala de espera do consultório, vista da entrada, com poltronas e o balcão da recepção ao fundo" width=1200 height=900}
 :::
 
 ::: {.info-grid}
