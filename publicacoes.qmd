@@ -40,34 +40,34 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 ::: {.pub-list}
 
 - **Vibe Coding na Pesquisa Científica** — Agentes de IA, análise de dados em R, Python e Quarto para publicação reprodutível na web.\
-  <https://www.henriquealvarenga.com/vibe-coding>\
-  [ISBN xxx-xx-xx-xxxxx-x (versão digital)]{.isbn} — Ainda em fase de Cadastramento
+  <https://henriquealvarenga.com/vibe-coding/>\
+  [ISBN em processo de registro (versão digital)]{.isbn}
 
 - **Da Correlação à Causalidade** — Hume, Mill, Koch, Bradford Hill e a epidemiologia causal contemporânea.\   
-  <http://www.henriquealvarenga.com/causalidade>\
+  <https://henriquealvarenga.com/causalidade/>\
   [ISBN 978-65-02-09855-4]{.isbn}
 
 - **A Bipolaridade de Robert Lowell**\
-  <https://www.henriquealvarenga.com/RobertLowell>\ 
+  <https://henriquealvarenga.com/RobertLowell/>\ 
 
 - **Manual Básico da Linguagem R** — Introdução à análise de dados com R e RStudio para área da saúde.\   
   [Amazon](https://a.co/d/8VVqZHi)\
   [ISBN 978-65-90-01320-0]{.isbn}
 
 - **Manual Básico da Linguagem R - 3ª Edição** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde.\
-  <https://www.henriquealvarenga.com/manual_r>\
-  [ISBN xxx-xx-xx-xxxxx-x]{.isbn} — Ainda em fase de Cadastramento
+  <https://henriquealvarenga.com/manual_r/>\
+  [ISBN em processo de registro]{.isbn}
 
 - **Manual de Git e GitHub**: Do Zero ao Repositório Remoto.\
-  <https://www.henriquealvarenga.com/github_manual>\
+  <https://henriquealvarenga.com/github_manual/>\
   [ISBN 978-65-01-83948-6]{.isbn}
 
 - **Indicadores de Saúde**: Conceitos, Métodos e Aplicações com Dados do Brasil.\ 
-  <https://henriquealvarenga.com/indicadores>\
+  <https://henriquealvarenga.com/indicadores/>\
   [ISBN 978-65-02-06225-8 (versão digital)]{.isbn}
 
 - **Tipos de Dados em Saúde** — Da coleta à análise: entendendo variáveis para pesquisa em saúde.\
-  <https://www.henriquealvarenga.com/tiposdedados>\
+  <https://henriquealvarenga.com/tiposdedados/>\
   [ISBN 978-65-02-05110-8 (versão digital)]{.isbn}
 
 - **Condenação de Inocentes**: O Problema do Reconhecimento de Pessoas e as Falsas Memórias no Direito Criminal. Juruá Editora, 2020.\
@@ -75,15 +75,15 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
   [ISBN 978-65-56-05148-2]{.isbn}
 
 - **Being Without Being** — Reflections in IA life. A dialogue between Human and AI.\
-  <https://www.henriquealvarenga.com/being>\
+  <https://henriquealvarenga.com/being/>\
   [ISBN 978-65-01-81979-2]{.isbn}
 
 - **Revisões da Literatura na Medicina**.
-  <http://www.henriquealvarenga.com/Literature_Review>\
+  <https://henriquealvarenga.com/Literature_Review/>\
   [ISBN 978-65-01-96182-8]{.isbn}
 
 - **Dos Dados aos Gráficos**: Visualização estatística para profissionais de saúde.\
-  <https://www.henriquealvarenga.com/graficos/>\
+  <https://henriquealvarenga.com/graficos/>\
   [ISBN 978-65-01-98049-2]{.isbn}
 
 - **Psicopatologia: Uma Breve Introdução**\
@@ -227,7 +227,7 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
   [![DOI](https://zenodo.org/badge/1311054649.svg)](https://doi.org/10.5281/zenodo.21536834)
 
 - **"Forms IA (MCP)"** — servidor MCP para Google Forms\
-  <https://henriquealvarenga.com/mcp>\
+  <https://henriquealvarenga.com/mcp/>\
   [![DOI](https://zenodo.org/badge/1294358395.svg)](https://doi.org/10.5281/zenodo.21296975)
 
 - **Bounded Rationality Lab** — aplicativo interativo\
@@ -237,10 +237,8 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 - **Linear Regression Lab: Regressão Linear & Mínimos Quadrados**.\
   *Uma versão aprimorada do app de Análise Visual de regressão linear.*\
-  <https://henriquealvarenga.com/linear-regression-lab> (web version)\
-  [![DOI](https://zenodo.org/badge/1214454858.svg)](https://doi.org/10.5281/zenodo.19650333)\
-  
   <https://apps.apple.com/br/app/linear-regression-lab/id6763681036> (iphone/ipad)\
+  [![DOI](https://zenodo.org/badge/1214454858.svg)](https://doi.org/10.5281/zenodo.19650333)\
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21702964.svg)](https://doi.org/10.5281/zenodo.21702964)\
 
 
@@ -248,7 +246,7 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
   <https://entangled-beliefs.base44.app>
 
 - **Análise Visual da evolução de uma epidemia com diferentes valores de R0 (R-naught)**.\
-  <https://www.henriquealvarenga.com/rnaught>
+  <https://henriquealvarenga.com/rnaught/>
 
 - **Visualização de Distribuições Estatísticas**.\
   <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud>
