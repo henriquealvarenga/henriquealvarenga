@@ -70,6 +70,23 @@ Segunda a sexta\
 
 ## <i class="bi bi-person-circle"></i> Quem sou
 
+::: {.faixa-contexto}
+::: {.contexto-item}
+**Formação**
+Medicina pela UFMG (1997) e residência em Psiquiatria no Hospital das Clínicas da UFMG (2000).
+:::
+
+::: {.contexto-item}
+**Docência**
+Professor de Psiquiatria e Psicopatologia no curso de Medicina da UFSJ e de Métodos de Pesquisa no UNIPTAN.
+:::
+
+::: {.contexto-item}
+**Produção científica**
+Autor de livros e de artigos científicos publicados em revistas nacionais e internacionais.
+:::
+:::
+
 Sou Médico Psiquiatra, graduado em Medicina pela **Universidade Federal de Minas Gerais (UFMG)** em 1997 e especialista em Psiquiatria pelo **Hospital das Clínicas da UFMG** (2000). Também sou especialista em **Psicoterapia Cognitiva-Construtivista** pelo Núcleo de Psicoterapia Cognitiva de São Paulo.
 
 Além da medicina, graduei-me **Bacharel em Direito** pelo UNIPTAN (2013), mas minha profissão continua sendo a medicina — em especial a psiquiatria.
@@ -118,7 +135,7 @@ São João del-Rei – MG
 :::
 
 ::: {.social-buttons}
-[Lattes](http://lattes.cnpq.br/6147640440978297)
+[Lattes](https://lattes.cnpq.br/6147640440978297)
 [Instagram](https://www.instagram.com/henriquealvarengadasilva)
 [LinkedIn](https://www.linkedin.com/in/henriquealvarengasilva)
 :::
