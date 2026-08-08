@@ -5,6 +5,9 @@ project:
     - .nojekyll
     - CNAME
     - google610e27547249eb1a.html
+    # As fontes são referenciadas só de dentro do CSS compilado, então o Quarto
+    # não as descobre sozinho — precisam ser declaradas aqui para irem ao docs/.
+    - fonts/
 
 website:
   title: "Dr. Henrique Alvarenga — Psiquiatra em São João del-Rei"
@@ -14,6 +17,10 @@ website:
   image: images/og-card.jpg
   reader-mode: false
   page-navigation: true
+
+  # Site de cinco páginas, todas no menu: a busca custava 164 KB e três arquivos
+  # que travavam a renderização, sem ganho proporcional.
+  search: false
 
   back-to-top-navigation: true
 
@@ -70,9 +77,12 @@ format:
     include-in-header:
       - text: |
           <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-          <link rel="preconnect" href="https://fonts.googleapis.com">
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap" rel="stylesheet">
+          <!-- As fontes agora são servidas daqui mesmo (ver @font-face no custom.scss).
+               O preload adianta os dois arquivos do subconjunto latin, que é o que
+               o topo da página usa; o latin-ext só é buscado se algum caractere
+               fora dessa faixa aparecer. -->
+          <link rel="preload" as="font" type="font/woff2" href="/fonts/fraunces-latin.woff2" crossorigin>
+          <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-latin.woff2" crossorigin>
       - file: _includes/schema.html
     include-after-body:
       - text: |
