@@ -54,9 +54,9 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
   [Amazon](https://a.co/d/8VVqZHi)\
   [ISBN 978-65-90-01320-0]{.isbn}
 
-- **Manual Básico da Linguagem R - 3ª Edição** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde.\
+- **Manual Básico da Linguagem R — 2ª Edição** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde.\
   <https://henriquealvarenga.com/manual_r/>\
-  [ISBN em processo de registro]{.isbn}
+  [ISBN 978-65-01-14142-8]{.isbn}
 
 - **Manual de Git e GitHub**: Do Zero ao Repositório Remoto.\
   <https://henriquealvarenga.com/github_manual/>\
