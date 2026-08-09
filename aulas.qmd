@@ -88,8 +88,9 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 Material para a disciplina de análise de dados ministrada no Curso de Medicina da **Universidade Federal de São João del-Rei**.
 
 ::: {.pub-list}
-- **Manual Básico da Linguagem R** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde\
-  <https://henriquealvarenga.com/manual_r/>
+- **Manual Básico da Linguagem R — 2ª Edição** — Introdução à análise de dados com R, RStudio e Quarto para área da saúde\
+  <https://henriquealvarenga.com/manual_r/>\
+  [ISBN 978-65-01-14142-8]{.isbn}
 
 - **Manual de Git e GitHub** — Do Zero ao Repositório Remoto\
   <https://henriquealvarenga.com/github_manual/>\   
