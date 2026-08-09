@@ -148,6 +148,9 @@ Material didático da disciplina de **Psicopatologia** do Curso de Medicina da U
 Material didático da disciplina de **Psiquiatria** do Curso de Medicina da UFSJ.
 
 ::: {.pub-list}
+- **Psiquiatria: Manual do Curso** — Portal da disciplina, com as aulas, materiais de apoio, textos complementares e referências.\
+  <https://henriquealvarenga.com/psiquiatria/>
+
 - **História da Bipolaridade do Poeta Robert Lowell**\
   <https://henriquealvarenga.com/RobertLowell/>
 
