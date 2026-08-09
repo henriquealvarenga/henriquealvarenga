@@ -86,8 +86,9 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
   <https://henriquealvarenga.com/graficos/>\
   [ISBN 978-65-01-98049-2]{.isbn}
 
-- **Psicopatologia: Uma Breve Introdução**\
-  [ISBN 978-65-00-08881-6]{.isbn}
+- **Fenômenos da mente** — Uma introdução crítica à psicopatologia. 2ª edição, reescrita de *Psicopatologia: Uma Breve Introdução*.\
+  <https://henriquealvarenga.com/psicopatologia/>\
+  [ISBN 978-65-00-08881-6 (1ª edição)]{.isbn}
 
 - **Consciência: Uma Breve Introdução**\
   [ISBN 978-65-00-08879-3]{.isbn}
@@ -101,7 +102,8 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 - **Memória: Uma Breve Introdução**\
   [ISBN 978-65-00-08877-9]{.isbn}
 
-- **Personalidade: Uma Breve Introdução**\
+- **Personalidade: Uma Breve Introdução** — 2ª edição\
+  <https://henriquealvarenga.com/personalidade/>\
   [ISBN 978-65-00-08880-9]{.isbn}
 
 - **Psicopatologia, Informação e Tecnologia**\
@@ -247,6 +249,15 @@ Servir como arquivo de referência, memória intelectual e vitrine pública do t
 
 - **Análise Visual da evolução de uma epidemia com diferentes valores de R0 (R-naught)**.\
   <https://henriquealvarenga.com/rnaught/>
+
+- **Epidemic Dynamics Lab** — Laboratório didático de epidemiologia em oito módulos.\
+  <https://henriquealvarenga.com/epidemic-dynamics-lab/>
+
+- **R Naught Lab** — Simulador epidemiológico com modelo SEIHRD e metapopulação.\
+  <https://henriquealvarenga.com/r-naught-lab/>
+
+- **(ab)Normal Boundaries Lab** — Aplicativo sobre o contínuo normal–patológico.\
+  <https://henriquealvarenga.com/abnormal-boundaries-lab/>
 
 - **Visualização de Distribuições Estatísticas**.\
   <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud>

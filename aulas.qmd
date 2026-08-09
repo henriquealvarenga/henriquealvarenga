@@ -62,6 +62,9 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 - **Tipos de Dados em Saúde** — Da coleta à análise: entendendo variáveis para pesquisa em saúde\
   <https://henriquealvarenga.com/tiposdedados/>\
   [ISBN 978-65-02-05110-8 (versão digital)]{.isbn}
+
+- **Viés e Erro em Pesquisa Epidemiológica** — Curso aberto sobre erro sistemático e vieses.\
+  <https://henriquealvarenga.com/vies/>
 :::
 
 ### Aplicativos interativos
@@ -69,6 +72,12 @@ Material didático desenvolvido para as disciplinas de **Métodos Científicos e
 ::: {.pub-list}
 - **Análise Visual da evolução de uma epidemia com diferentes valores de R0 (R-naught)**\
   <https://henriquealvarenga.com/rnaught/>
+
+- **Epidemic Dynamics Lab** — Laboratório didático de epidemiologia em oito módulos, do conceito básico ao surto de cólera de John Snow\
+  <https://henriquealvarenga.com/epidemic-dynamics-lab/>
+
+- **R Naught Lab** — Simulador epidemiológico com modelo SEIHRD e metapopulação, em modo jogo e modo análise\
+  <https://henriquealvarenga.com/r-naught-lab/>
 
 - **Visualização de Distribuições Estatísticas**\
   <https://019af4b4-a1ad-f321-e154-463efc4d6ac2.share.connect.posit.cloud>
@@ -120,8 +129,12 @@ Material didático da disciplina de **Psicopatologia** do Curso de Medicina da U
 - **Entangled Beliefs app** — aplicativo interativo\
   <https://entangled-beliefs.base44.app>
 
-- **Psicopatologia: Uma Breve Introdução**\
-  [ISBN 978-65-00-08881-6]{.isbn}
+- **(ab)Normal Boundaries Lab** — aplicativo interativo sobre o contínuo normal–patológico\
+  <https://henriquealvarenga.com/abnormal-boundaries-lab/>
+
+- **Fenômenos da mente** — Uma introdução crítica à psicopatologia. 2ª edição, reescrita de *Psicopatologia: Uma Breve Introdução*.\
+  <https://henriquealvarenga.com/psicopatologia/>\
+  [ISBN 978-65-00-08881-6 (1ª edição)]{.isbn}
 
 - **Consciência: Uma Breve Introdução**\
   [ISBN 978-65-00-08879-3]{.isbn}
@@ -135,7 +148,8 @@ Material didático da disciplina de **Psicopatologia** do Curso de Medicina da U
 - **Memória: Uma Breve Introdução**\
   [ISBN 978-65-00-08877-9]{.isbn}
 
-- **Personalidade: Uma Breve Introdução**\
+- **Personalidade: Uma Breve Introdução** — 2ª edição\
+  <https://henriquealvarenga.com/personalidade/>\
   [ISBN 978-65-00-08880-9]{.isbn}
 
 - **Psicopatologia, Informação e Tecnologia**\
@@ -150,6 +164,9 @@ Material didático da disciplina de **Psiquiatria** do Curso de Medicina da UFSJ
 ::: {.pub-list}
 - **Psiquiatria: Manual do Curso** — Portal da disciplina, com as aulas, materiais de apoio, textos complementares e referências.\
   <https://henriquealvarenga.com/psiquiatria/>
+
+- **Terapêutica Clínica — Módulo Saúde Mental** — Aprendizagem de psicofarmacologia baseada em casos clínicos, para o ciclo clínico.\
+  <https://henriquealvarenga.com/terapeutica-clinica/>
 
 - **História da Bipolaridade do Poeta Robert Lowell**\
   <https://henriquealvarenga.com/RobertLowell/>
